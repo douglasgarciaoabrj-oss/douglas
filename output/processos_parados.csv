@@ -1,0 +1,4 @@
+id_processo,numero_processo,tipo_processo,prioridade,ultima_movimentacao,responsavel,dias_sem_movimentacao,faixa_alerta,acao_sugerida
+1,0001234-56.2024.8.26.0100,Cível,alta,2025-12-01,Ana,130,critico_90+,Peticionar impulso processual e registrar cobrança formal de andamento
+2,0009988-11.2023.8.26.0100,Trabalhista,media,2026-02-01,Carlos,68,alto_60+,Cobrar andamento com cartório/vara e revisar estratégia
+3,0007777-99.2022.8.26.0100,Cível,baixa,2026-03-25,Marina,16,ok,Sem ação imediata
